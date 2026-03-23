@@ -214,49 +214,6 @@
             }
         ]
     },
-    "Токсики": {
-        "leader_id": 1176837882141474833,
-        "leader_name": "prorok_cold",
-        "location": "Неизвестный сектор",
-        "status": "Активен в зоне",
-        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/assets/clans/токсики_logo.png",
-        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/assets/clans/токсики_banner.png",
-        "members": [
-            {
-                "name": "prorok_cold"
-            },
-            {
-                "name": "SkIF21_94 (Зам.)"
-            },
-            {
-                "name": "L1nkas_RUS"
-            },
-            {
-                "name": "wasilii312"
-            },
-            {
-                "name": "NaemnikPSK"
-            },
-            {
-                "name": "SKR_SHAbim"
-            },
-            {
-                "name": "STik_344"
-            },
-            {
-                "name": "Sergo_Julya25"
-            },
-            {
-                "name": "yaltakostya90"
-            },
-            {
-                "name": "levaree"
-            },
-            {
-                "name": "boez1308"
-            }
-        ]
-    },
     "RRR": {
         "leader_id": 1176837882141474833,
         "leader_name": "ViceCult",
@@ -605,6 +562,19 @@
             },
             {
                 "name": "neat_drawing5"
+            }
+        ]
+    },
+    "ТОКСИКИ": {
+        "leader_id": 1176837882141474833,
+        "leader_name": "SkIF21_94",
+        "location": "Неизвестный сектор",
+        "status": "Активен в зоне",
+        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/токсики_logo.png",
+        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/токсики_banner.png",
+        "members": [
+            {
+                "name": "SkIF21_94"
             }
         ]
     }
