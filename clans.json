@@ -567,5 +567,18 @@
                 "name": "boez1308"
             }
         ]
+    },
+    "Grizzly Force": {
+        "leader_id": 1176837882141474833,
+        "leader_name": "vrednyj_alex",
+        "location": "Неизвестный сектор",
+        "status": "Активен в зоне",
+        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/grizzly-force_logo.jpg",
+        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/grizzly-force_banner.jpg",
+        "members": [
+            {
+                "name": "vrednyj_alex"
+            }
+        ]
     }
 }
