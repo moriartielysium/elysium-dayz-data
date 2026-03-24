@@ -383,46 +383,6 @@
             }
         ]
     },
-    "ОПГ <<СЛАВЯНЕ >>": {
-        "leader_id": 1176837882141474833,
-        "leader_name": "vrednyj_alex",
-        "location": "Неизвестный сектор",
-        "status": "Активен в зоне",
-        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/опг-славяне_logo.jpg",
-        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/опг-славяне_banner.png",
-        "members": [
-            {
-                "name": "vrednyj_alex"
-            },
-            {
-                "name": "Joni220788"
-            },
-            {
-                "name": "Dmitriy_333"
-            },
-            {
-                "name": "pieman_zu"
-            },
-            {
-                "name": "MR_BANG_RU"
-            },
-            {
-                "name": "Kurt_Cobain78118"
-            },
-            {
-                "name": "heroic-once61"
-            },
-            {
-                "name": "ROM-GT789"
-            },
-            {
-                "name": "Turbo4len_1cm"
-            },
-            {
-                "name": "anastasiia_kyl (Зам.)"
-            }
-        ]
-    },
     "«Викинг»": {
         "leader_id": 1176837882141474833,
         "leader_name": "Cpt_MacMillan_Ua",
