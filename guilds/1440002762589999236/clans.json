@@ -386,34 +386,6 @@
             }
         ]
     },
-    "«Викинг»": {
-        "leader_id": 1176837882141474833,
-        "leader_name": "Cpt_MacMillan_Ua",
-        "location": "Неизвестный сектор",
-        "status": "Активен в зоне",
-        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/викинг_logo.png",
-        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/викинг_banner.jpg",
-        "members": [
-            {
-                "name": "Cpt_MacMillan_Ua"
-            },
-            {
-                "name": "Ilya10-04"
-            },
-            {
-                "name": "Lesiy-kiti"
-            },
-            {
-                "name": "Moisey0_0"
-            },
-            {
-                "name": "N_I_K_I_T_A-17"
-            },
-            {
-                "name": "reding-eliksir"
-            }
-        ]
-    },
     "ГУЛАГ": {
         "leader_id": 1176837882141474833,
         "leader_name": "orel-krutoi777",
