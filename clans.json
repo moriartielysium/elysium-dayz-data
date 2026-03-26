@@ -386,37 +386,6 @@
             }
         ]
     },
-    "ГУЛАГ": {
-        "leader_id": 1176837882141474833,
-        "leader_name": "orel-krutoi777",
-        "location": "Неизвестный сектор",
-        "status": "Активен в зоне",
-        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/гулаг_logo.png",
-        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/гулаг_banner.png",
-        "members": [
-            {
-                "name": "orel-krutoi777"
-            },
-            {
-                "name": "Alex_DeviL777"
-            },
-            {
-                "name": "Jopa_v_tumane"
-            },
-            {
-                "name": "Ployka_forme"
-            },
-            {
-                "name": "furcate-copse10"
-            },
-            {
-                "name": "MR_ANTONY7"
-            },
-            {
-                "name": "Nelzor3191"
-            }
-        ]
-    },
     "Shadow of a doll": {
         "leader_id": 1176837882141474833,
         "leader_name": "MOCKBA29",
