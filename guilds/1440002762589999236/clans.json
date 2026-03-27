@@ -474,5 +474,18 @@
                 "name": "Gaz_Gazov"
             }
         ]
+    },
+    "1-й ливоньевский полк": {
+        "leader_id": 1176837882141474833,
+        "leader_name": "ZA_RYCb",
+        "location": "Неизвестный сектор",
+        "status": "Активен в зоне",
+        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/1-й-ливоньевский-полк_logo.png",
+        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/1-й-ливоньевский-полк_banner.jpg",
+        "members": [
+            {
+                "name": "ZA_RYCb"
+            }
+        ]
     }
 }
