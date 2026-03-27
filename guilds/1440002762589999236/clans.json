@@ -453,5 +453,18 @@
                 "name": "Turbo4len_1cm"
             }
         ]
+    },
+    "RRS": {
+        "leader_id": 1176837882141474833,
+        "leader_name": "wnxTomMarvolo",
+        "location": "Неизвестный сектор",
+        "status": "Активен в зоне",
+        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/rrs_logo.png",
+        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/rrs_banner.png",
+        "members": [
+            {
+                "name": "wnxTomMarvolo"
+            }
+        ]
     }
 }
