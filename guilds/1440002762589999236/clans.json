@@ -254,40 +254,6 @@
             }
         ]
     },
-    "1-й ливоньевский полк": {
-        "leader_id": 1176837882141474833,
-        "leader_name": "edinle_natter",
-        "location": "Неизвестный сектор",
-        "status": "Активен в зоне",
-        "image": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/1-й-ливоньевский-полк_logo.png",
-        "banner": "https://raw.githubusercontent.com/moriartielysium/elysium-dayz-data/main/guilds/1440002762589999236/assets/clans/1-й-ливоньевский-полк_banner.jpg",
-        "members": [
-            {
-                "name": "edinle_natter"
-            },
-            {
-                "name": "ZA_RYCb (Зам.)"
-            },
-            {
-                "name": "DANON_chpak"
-            },
-            {
-                "name": "GOSPODIN_ARTEM"
-            },
-            {
-                "name": "kot_34554"
-            },
-            {
-                "name": "dazed-sandpit77"
-            },
-            {
-                "name": "vladimir_rus22"
-            },
-            {
-                "name": "JonHREN_POPADESH"
-            }
-        ]
-    },
     "Shadow of a doll": {
         "leader_id": 1176837882141474833,
         "leader_name": "MOCKBA29",
